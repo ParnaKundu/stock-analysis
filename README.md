@@ -55,9 +55,14 @@ This refactoring of code reduced the execution time significantly from **1.438 s
 
 Execution time using the original code ![VBA_Challenge_2018](VBA_Challenge_2018.png) 
 
-Execution time using the refactored code ![VBA_Challenge_2018_refactored](VBA_Challenge_2018_refactored.png). 
+Execution time using the refactored code ![VBA_Challenge_2018_refactored](VBA_Challenge_2018_refactored.png)
 
-In the same way, the execution time for 2017 stock data using the original code is **1.391 sec** [VBA_Challenge_2017](https://github.com/ParnaKundu/stock-analysis/blob/main/VBA_Challenge_2017.png) whereas it is **0.156 secs** in the refactored code [VBA_Challenge_2017_refactored](https://github.com/ParnaKundu/stock-analysis/blob/main/VBA_Challenge_2017_refactored.png).  
+In the same way, the execution time for 2017 stock data using the original code is **1.391 sec** whereas it is **0.156 secs** in the refactored code.
+
+
+Execution time using the original code for 2017 stock data ![VBA_Challenge_2017](VBA_Challenge_2017.png)
+
+Execution time using the refactored code ![VBA_Challenge_2017_refactored](VBA_Challenge_2017_refactored.png)  
 
 ## Summary
 
