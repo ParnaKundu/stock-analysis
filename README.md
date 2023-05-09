@@ -51,7 +51,7 @@ In the refactored code only one "for loop" is used to process the data rows and 
            			            
         	End If
 
-This refactoring of code reduced the execution time significantly from **1.438 secs** using the original code [VBA_Challenge_2018](https://github.com/ParnaKundu/stock-analysis/blob/main/VBA_Challenge_2018.png) to **0.164 secs** using the refactored code ![VBA_Challenge_2018_refactored](main/VBA_Challenge_2018_refactored.png) when analysing the 2018 stock data. 
+This refactoring of code reduced the execution time significantly from **1.438 secs** using the original code [VBA_Challenge_2018](https://github.com/ParnaKundu/stock-analysis/blob/main/VBA_Challenge_2018.png) to **0.164 secs** using the refactored code ![VBA_Challenge_2018_refactored](VBA_Challenge_2018_refactored.png) when analysing the 2018 stock data. 
 
 In the same way, the execution time for 2017 stock data using the original code is **1.391 sec** [VBA_Challenge_2017](https://github.com/ParnaKundu/stock-analysis/blob/main/VBA_Challenge_2017.png) whereas it is **0.156 secs** in the refactored code [VBA_Challenge_2017_refactored](https://github.com/ParnaKundu/stock-analysis/blob/main/VBA_Challenge_2017_refactored.png).  
 
